@@ -1,0 +1,134 @@
+[
+  {
+    "category": "Trending",
+    "title": "calesthio/OpenMontage",
+    "language": "Python",
+    "stars": "9,623",
+    "forks": "1,363",
+    "stars_today": "987 stars today",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "link": "https://github.com/calesthio/OpenMontage",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "chopratejas/headroom",
+    "language": "Python",
+    "stars": "45,327",
+    "forks": "3,151",
+    "stars_today": "2,624 stars today",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "link": "https://github.com/chopratejas/headroom",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "language": "Python",
+    "stars": "45,006",
+    "forks": "41,616",
+    "stars_today": "568 stars today",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "bytedance/deer-flow",
+    "language": "Python",
+    "stars": "72,816",
+    "forks": "9,856",
+    "stars_today": "442 stars today",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "link": "https://github.com/bytedance/deer-flow",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "mukul975/Anthropic-Cybersecurity-Skills",
+    "language": "Python",
+    "stars": "17,947",
+    "forks": "2,150",
+    "stars_today": "361 stars today",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+    "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "mikumifa/biliTickerBuy",
+    "language": "Python",
+    "stars": "3,760",
+    "forks": "468",
+    "stars_today": "67 stars today",
+    "description": "b站会员购购票辅助工具",
+    "link": "https://github.com/mikumifa/biliTickerBuy",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "smicallef/spiderfoot",
+    "language": "Python",
+    "stars": "18,877",
+    "forks": "3,113",
+    "stars_today": "294 stars today",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "link": "https://github.com/smicallef/spiderfoot",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "topoteretes/cognee",
+    "language": "Python",
+    "stars": "18,804",
+    "forks": "1,976",
+    "stars_today": "347 stars today",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "link": "https://github.com/topoteretes/cognee",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "public-apis/public-apis",
+    "language": "Python",
+    "stars": "443,404",
+    "forks": "48,600",
+    "stars_today": "207 stars today",
+    "description": "A collective list of free APIs",
+    "link": "https://github.com/public-apis/public-apis",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "THUDM/slime",
+    "language": "Python",
+    "stars": "6,641",
+    "forks": "956",
+    "stars_today": "91 stars today",
+    "description": "slime is an LLM post-training framework for RL Scaling.",
+    "link": "https://github.com/THUDM/slime",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "Alishahryar1/free-claude-code",
+    "language": "Python",
+    "stars": "36,189",
+    "forks": "5,643",
+    "stars_today": "258 stars today",
+    "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
+    "link": "https://github.com/Alishahryar1/free-claude-code",
+    "scraped_at": "2026-06-22 12:01:06"
+  },
+  {
+    "category": "Trending",
+    "title": "NousResearch/hermes-agent",
+    "language": "Python",
+    "stars": "199,288",
+    "forks": "35,398",
+    "stars_today": "700 stars today",
+    "description": "The agent that grows with you",
+    "link": "https://github.com/NousResearch/hermes-agent",
+    "scraped_at": "2026-06-22 12:01:06"
+  }
+]

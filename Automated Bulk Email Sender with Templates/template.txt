@@ -1,0 +1,6 @@
+Hello sir,
+
+We are excited to welcome you to {company}! Your application has been approved, and we look forward to working with you.
+
+Best regards,
+The HR Team

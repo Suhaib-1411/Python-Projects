@@ -1,0 +1,68 @@
+============================================================
+  EXCEL DATA ANALYSIS REPORT
+  Generated : 2026-06-22 11:00:57
+  Source    : C:\UNI Docs\HK Internship\Task 7\sample_data.xlsx
+============================================================
+
+  Total Records : 50
+  Total Columns : 10
+  Missing Values: 0
+  Duplicate Rows: 0
+
+------------------------------------------------------------
+  COLUMN DETAILS
+------------------------------------------------------------
+  employee_id
+    dtype  : str
+    nulls  : 0
+    unique : 50
+  name
+    dtype  : str
+    nulls  : 0
+    unique : 50
+  department
+    dtype  : str
+    nulls  : 0
+    unique : 5
+  city
+    dtype  : str
+    nulls  : 0
+    unique : 5
+  gender
+    dtype  : str
+    nulls  : 0
+    unique : 2
+  age
+    dtype  : float64
+    nulls  : 0
+    unique : 26
+  salary
+    dtype  : float64
+    nulls  : 0
+    unique : 46
+  performance
+    dtype  : float64
+    nulls  : 0
+    unique : 31
+  experience_yrs
+    dtype  : int64
+    nulls  : 0
+    unique : 18
+  email
+    dtype  : str
+    nulls  : 0
+    unique : 50
+
+------------------------------------------------------------
+  NUMERIC STATISTICS
+------------------------------------------------------------
+          age     salary  performance  experience_yrs
+mean    38.38   94724.53        77.47            9.40
+median  38.38   96501.50        78.50            8.50
+min     22.00   31802.00        50.00            1.00
+max     54.00  148906.00        98.00           19.00
+std     10.51   34400.60        13.60            6.23
+
+============================================================
+  END OF REPORT
+============================================================

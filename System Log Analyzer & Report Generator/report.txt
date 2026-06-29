@@ -1,0 +1,9 @@
+=========================================
+        SYSTEM LOG ANALYSIS REPORT       
+=========================================
+Total Logs Processed : 9
+Total Info Messages  : 5
+Total Warnings Found : 2
+Total Errors Found   : 2
+=========================================
+Report generated successfully.

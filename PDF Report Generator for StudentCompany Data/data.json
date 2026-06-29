@@ -1,0 +1,16 @@
+[
+    {
+        "id": "S101",
+        "name": "Ali Khan",
+        "email": "ali@example.com",
+        "department": "Computer Science",
+        "performance": "Excellent (A+)"
+    },
+    {
+        "id": "S102",
+        "name": "Sana Ahmed",
+        "email": "sana@example.com",
+        "department": "Data Science",
+        "performance": "Good (A)"
+    }
+]
