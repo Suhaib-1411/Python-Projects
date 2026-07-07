@@ -1,0 +1,6 @@
+psutil>=5.9.0
+
+# Optional (bonus feature): enables real desktop pop-up notifications.
+# The script runs fine without it — it will just skip desktop notifications
+# and fall back to console alerts + terminal bell sound.
+plyer>=2.1.0
