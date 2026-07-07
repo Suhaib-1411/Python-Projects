@@ -8,17 +8,21 @@ This repository contains 9 practical Python projects that demonstrate my skills 
 
 ## 📋 Project List
 
-| # | Project Name | Description | Key Technologies |
-|---|--------------|-----------|------------------|
-| 1 | **Advanced CLI Contact Management System** | Full-featured Contact Management System (Mini CRM) with search, filters, and data persistence | Python, JSON/CSV |
-| 2 | **Multi-User Authentication System** | Secure user registration & login system with password hashing | Python, JSON, hashlib |
-| 3 | **Custom Data Encryption & Decryption Tool** | Tool to encrypt and decrypt data with custom algorithms | Python, Cryptography basics |
-| 4 | **System Log Analyzer & Report Generator** | Analyzes log files and generates detailed reports | Python, Regex, File Handling |
-| 5 | **Automated Bulk Email Sender with Templates** | Bulk email sender with personalization and templates | Python, smtplib, CSV |
-| 6 | **PDF Report Generator** | Professional PDF report generator for students/companies | Python, ReportLab |
-| 7 | **Excel Data Cleaning & Analysis Tool** | Data cleaning and analysis tool using Pandas | Python, Pandas |
-| 8 | **Bulk File Renamer & Smart Organizer** | Automated file renaming and organization script | Python, OS & Shutil |
-| 9 | **Dynamic Web Scraper** | Web scraper for jobs, products, or news | Python, BeautifulSoup/Requests |
+| #  | Project Name                                   | Description                                                                                   | Key Technologies                |
+|----|------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------|
+| 1  | **Automated Bulk Email Sender with Templates** | Bulk email sender with personalization and templates                                          | Python, smtplib, CSV            |
+| 2  | **Bulk File Renamer & Smart Organizer** | Automated file renaming and organization script                                               | Python, OS & Shutil             |
+| 3  | **Contact Management System** | Full-featured Contact Management System (Mini CRM) with search, filters, and data persistence | Python, JSON/CSV                |
+| 4  | **Crypto Price tracker** | Real-time tracking of cryptocurrency prices and market data                                   | Python, Requests, APIs          |
+| 5  | **Custom Data Encryption & Decryption Tool** | Tool to encrypt and decrypt data with custom algorithms                                       | Python, Cryptography basics     |
+| 6  | **Dynamic Web Scraper** | Web scraper for jobs, products, or news                                                       | Python, BeautifulSoup/Requests  |
+| 7  | **Excel Data Cleaning & Analysis Tool** | Data cleaning and analysis tool using Pandas                                                  | Python, Pandas                  |
+| 8  | **Multi-User Authentication System** | Secure user registration & login system with password hashing                                 | Python, JSON, hashlib           |
+| 9  | **PDF Report Generator** | Professional PDF report generator for students/companies                                      | Python, ReportLab               |
+| 10 | **Resource_monitor_project** | Tool to track and monitor system resources like CPU and RAM                                   | Python, psutil, OS              |
+| 11 | **System Log Analyzer & Report Generator** | Analyzes log files and generates detailed reports                                             | Python, Regex, File Handling    |
+| 12 | **news_aggregator** | Aggregates the latest headlines and articles from various news sources                        | Python, Requests, BeautifulSoup |
+
 
 ---
 
@@ -46,3 +50,6 @@ Python-Internship-Projects/
 ├── Task-07-Excel-Data-Cleaner/
 ├── Task-08-Bulk-File-Renamer/
 ├── Task-09-Dynamic-Web-Scraper/
+├── Resource_monitor_project/
+├── System Log Analyzer & Report Generator/
+└── news_aggregator/
