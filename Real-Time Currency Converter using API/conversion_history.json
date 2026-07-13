@@ -1,0 +1,23 @@
+[
+    {
+        "from_currency": "USD",
+        "to_currency": "PKR",
+        "amount": 150.0,
+        "result": 41737.5,
+        "timestamp": "2026-07-13 09:45:22"
+    },
+    {
+        "from_currency": "EUR",
+        "to_currency": "GBP",
+        "amount": 2500.0,
+        "result": 2125.0,
+        "timestamp": "2026-07-13 10:12:05"
+    },
+    {
+        "from_currency": "USD",
+        "to_currency": "PKR",
+        "amount": 100.0,
+        "result": 27804.42,
+        "timestamp": "2026-07-13 09:06:46"
+    }
+]
