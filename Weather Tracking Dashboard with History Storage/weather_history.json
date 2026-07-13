@@ -1,0 +1,26 @@
+[
+    {
+        "city": "London",
+        "temperature": 14.2,
+        "humidity": 82,
+        "condition": "Light Rain",
+        "wind_speed": 4.1,
+        "timestamp": "2026-07-13 08:35:12"
+    },
+    {
+        "city": "New York",
+        "temperature": 26.5,
+        "humidity": 65,
+        "condition": "Clear Sky",
+        "wind_speed": 3.6,
+        "timestamp": "2026-07-13 08:40:44"
+    },
+    {
+        "city": "Islamabad, Pakistan",
+        "temperature": 29.8,
+        "humidity": 54,
+        "condition": "Clear Sky",
+        "wind_speed": 4.9,
+        "timestamp": "2026-07-13 08:46:44"
+    }
+]
