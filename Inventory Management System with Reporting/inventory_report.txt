@@ -1,0 +1,23 @@
+============================================================
+          INVENTORY MANAGEMENT SYSTEM REPORT          
+============================================================
+
+--- INVENTORY SUMMARY ---
+ Total Unique Products : 1
+ Total Units in Stock  : 10
+ Total Inventory Value : $12000.00
+
+--- CURRENT INVENTORY DETAILS ---
+ID    | Name                 | Category     | Price    | Qty   | Supplier    
+---------------------------------------------------------------------------
+1     | Iphone               | Electronics  | $1200.00 | 10    | Ahmad       
+
+--- LOW STOCK ALERTS (Quantity <= 5) ---
+ No low stock alerts.
+
+--- SALES SUMMARY LOG ---
+ No sales transactions recorded.
+
+============================================================
+                    END OF REPORT                    
+============================================================
