@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2026-07-31 17:17:26",
+        "sender": "moiz",
+        "recipient": "ALL (Broadcast)",
+        "content": "salam hasnain kaermain is goat aka bakra",
+        "type": "BROADCAST"
+    },
+    {
+        "timestamp": "2026-07-31 17:18:05",
+        "sender": "moiz",
+        "recipient": "siuu",
+        "content": "12345678",
+        "type": "PRIVATE"
+    }
+]
